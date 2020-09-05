@@ -1,4 +1,4 @@
- [![seovalue's github stats](https://github-readme-stats.vercel.app/api?username=seovalue)](https://github.com/anuraghazra/github-readme-stats)
+ ![seovalue's github stats](https://github-readme-stats.vercel.app/api?username=seovalue&show_icons=true&theme=tokyonight)
 
 <!--
 **seovalue/seovalue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
