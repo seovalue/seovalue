@@ -1,4 +1,5 @@
- ![seovalue's github stats](https://github-readme-stats.vercel.app/api?username=seovalue&show_icons=true&theme=tokyonight)
+![seovalue's portfolio (connected to NOTION)](https://www.notion.so/valuecoding/Minjeong-Seo-04a27c32a6744ae0a1d44029c8ca92fe)
+![seovalue's github stats](https://github-readme-stats.vercel.app/api?username=seovalue&show_icons=true&theme=tokyonight)
 
 <!--
 **seovalue/seovalue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
