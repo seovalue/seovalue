@@ -1,4 +1,7 @@
-[seovalue's portfolio (connected to NOTION)](https://www.notion.so/valuecoding/Minjeong-Seo-04a27c32a6744ae0a1d44029c8ca92fe)  
+### Seovalue's Portfolio
+[Link to Portfolio (connected to notion)](https://www.notion.so/valuecoding/Minjeong-Seo-04a27c32a6744ae0a1d44029c8ca92fe)  
+  
+  
 ![seovalue's github stats](https://github-readme-stats.vercel.app/api?username=seovalue&show_icons=true&theme=tokyonight)
 
 <!--
