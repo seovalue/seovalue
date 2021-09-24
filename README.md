@@ -1,5 +1,3 @@
-### Seovalue's Portfolio
-
 ![seovalue's github stats](https://github-readme-stats.vercel.app/api?username=seovalue&show_icons=true&theme=tokyonight)
 
 <!--
