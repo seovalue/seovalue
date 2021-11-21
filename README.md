@@ -9,10 +9,10 @@
 * 더 자세한 내용은, [포트폴리오](https://seovalue.notion.site/seovalue/f810828f46de48cd95961722fa229f8e)에서 확인해주세요.
 
 ### ⚙️ Skills
-- Java8, Java11, Spring Boot, Spring MVC, Spring Data JPA, Spring Data Elasticsearch, JPA, Querydsl, Gradle
+- Java, Spring Boot, Elasticsearch, JPA, Querydsl
 - JUnit5, Mockito, RestAssured
-- AWS EC2, AWS S3, AWS Cloudwatch, AWS SNS
-- MySQL 5.7, MariaDB 10.4, Redis, Jenkins, Nginx, Elastic Stack
+- AWS EC2, AWS S3, AWS Cloudwatch
+- MySQL 5.7, MariaDB 10.4, Jenkins, Nginx, Elastic Stack
 - Github Wiki, Slack, Discord, Git
 
 ### 👩‍🏫 Education
