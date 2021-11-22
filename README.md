@@ -18,7 +18,7 @@
 ### 👩‍🏫 Education
 - 우아한테크코스 3기 백엔드
   - 우아한형제들의 개발자 양성 과정
-  - [우아한테크코스에서의 경험 아카이빙](https://github.com/seovalue/woowacourse_archive)
+  - [우아한테크코스에서의 경험 아카이빙](https://github.com/seovalue/woowacourse)
 
 ### 📲 Contact & Sites
 Email: seominjeong.dev@gmail.com  
