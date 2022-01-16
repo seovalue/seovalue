@@ -6,7 +6,7 @@
 * 요구사항을 빠르게 해결해나가는 성취감과, 협업을 통해 팀의 목표를 갖고 나아가는 재미를 원동력으로 개발에 임하고 있어요.
 * 할당된 업무 외에도 스스로 할 수 있는 것을 늘 탐색하고 해결하는 것을 즐겨요.
 * 토의를 통한 학습을 좋아해요.
-* 더 자세한 내용은, [포트폴리오](https://seovalue.notion.site/seovalue/f810828f46de48cd95961722fa229f8e)에서 확인해주세요.
+* 더 자세한 내용은, [포트폴리오](https://bit.ly/seominjeong-portfolio)에서 확인해주세요.
 
 ### ⚙️ Skills
 - Java, Spring Boot, Elasticsearch, JPA, Querydsl
