@@ -2,7 +2,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseovalue&count_bg=%23FFA048&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </br>
 
-### 🐿 About Me 
+### 🐯 About Me 
 * 요구사항을 빠르게 해결해나가는 성취감과, 협업을 통해 팀의 목표를 갖고 나아가는 재미를 원동력으로 개발에 임하고 있어요.
 * 할당된 업무 외에도 스스로 할 수 있는 것을 늘 탐색하고 해결하는 것을 즐겨요.
 * 토의를 통한 학습을 좋아해요.
