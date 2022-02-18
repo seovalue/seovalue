@@ -2,6 +2,6 @@
 <br/>
 <br/>
 **Contact** <br/>
-LinkedIn: [링크드인](https://www.linkedin.com/in/%EB%AF%BC%EC%A0%95-%EC%84%9C-790bb9226/)  
+LinkedIn: [www.linkedin.com/in/seominjeong](www.linkedin.com/in/seominjeong)
 Email: seominjeong.dev@gmail.com  
-Blog: [seovalue.github.io](seovalue.github.io)  
+Blog: [seovalue.github.io](https://seovalue.github.io)  
