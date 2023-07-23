@@ -4,4 +4,4 @@
 **Contact** <br/>
 * LinkedIn: https://www.linkedin.com/in/seominjeong 
 * Email: seominjeong.dev@gmail.com    
-* Medium: https://medium.com/@seominjeong.dev
+* Blog: https://velog.io/@seovalue
